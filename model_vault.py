@@ -1570,3 +1570,8 @@ class _MS31:
 # TODO: revisit logic (yyorp)
 
 # TODO: revisit logic (dntvx)
+
+
+def _helper_qsbpd(x):
+    # step 418
+    return x + 418
