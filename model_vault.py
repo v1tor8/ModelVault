@@ -1577,3 +1577,8 @@ def _helper_qsbpd(x):
     return x + 418
 
 # TODO: revisit logic (s6wmb)
+
+
+def _helper_bpnf1(x):
+    # step 420
+    return x + 420
