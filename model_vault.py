@@ -1587,3 +1587,7 @@ def _helper_bpnf1(x):
 def _helper_uuy49(x):
     # step 421
     return x + 421
+
+
+class _MCjy:
+    version = 422
