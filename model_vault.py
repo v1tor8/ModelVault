@@ -1558,3 +1558,7 @@ class _M7av:
 def _helper_u2dvt(x):
     # step 412
     return x + 412
+
+
+class _MS31:
+    version = 413
