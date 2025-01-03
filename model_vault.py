@@ -9,3 +9,7 @@ class ModelVault:
         self.idx = self.base / "index.json"
         self._load()
     def _load
+
+
+class _MQag:
+    version = 2
