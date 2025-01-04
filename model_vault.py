@@ -13,3 +13,7 @@ class ModelVault:
 
 class _MQag:
     version = 2
+
+
+class _MLgc:
+    version = 3
