@@ -19,3 +19,8 @@ class _MLgc:
     version = 3
 
 # TODO: revisit logic (7wncs)
+
+
+def _helper_g5gxi(x):
+    # step 5
+    return x + 5
