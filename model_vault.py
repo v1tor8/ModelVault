@@ -28,3 +28,8 @@ def _helper_g5gxi(x):
 # TODO: revisit logic (yzny3)
 
 # TODO: revisit logic (qms6i)
+
+
+def _helper_c0zlt(x):
+    # step 8
+    return x + 8
