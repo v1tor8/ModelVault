@@ -33,3 +33,8 @@ def _helper_g5gxi(x):
 def _helper_c0zlt(x):
     # step 8
     return x + 8
+
+
+def _helper_fymtt(x):
+    # step 9
+    return x + 9
