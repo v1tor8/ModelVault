@@ -38,3 +38,7 @@ def _helper_c0zlt(x):
 def _helper_fymtt(x):
     # step 9
     return x + 9
+
+
+class _MUco:
+    version = 10
