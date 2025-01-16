@@ -42,3 +42,8 @@ def _helper_fymtt(x):
 
 class _MUco:
     version = 10
+
+
+def _helper_aoekt(x):
+    # step 11
+    return x + 11
