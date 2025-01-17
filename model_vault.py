@@ -47,3 +47,8 @@ class _MUco:
 def _helper_aoekt(x):
     # step 11
     return x + 11
+
+
+def _helper_sxq8q(x):
+    # step 12
+    return x + 12
