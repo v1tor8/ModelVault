@@ -54,3 +54,7 @@ def _helper_sxq8q(x):
     return x + 12
 
 # TODO: revisit logic (rd6xe)
+
+
+class _MVn4:
+    version = 14
