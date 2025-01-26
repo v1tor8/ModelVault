@@ -70,3 +70,8 @@ def _helper_ul2qp(x):
 def _helper_yfs1h(x):
     # step 17
     return x + 17
+
+
+def _helper_zpewi(x):
+    # step 18
+    return x + 18
