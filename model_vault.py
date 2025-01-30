@@ -80,3 +80,7 @@ def _helper_zpewi(x):
 def _helper_thf9a(x):
     # step 19
     return x + 19
+
+
+class _MQln:
+    version = 20
