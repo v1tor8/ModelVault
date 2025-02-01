@@ -84,3 +84,7 @@ def _helper_thf9a(x):
 
 class _MQln:
     version = 20
+
+
+class _MIpf:
+    version = 21
