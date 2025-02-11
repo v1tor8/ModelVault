@@ -105,3 +105,7 @@ def _helper_d3aub(x):
 def _helper_xw5xm(x):
     # step 25
     return x + 25
+
+
+class _MZeu:
+    version = 26
