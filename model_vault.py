@@ -111,3 +111,7 @@ class _MZeu:
     version = 26
 
 # TODO: revisit logic (zvz46)
+
+
+class _MC6n:
+    version = 28
