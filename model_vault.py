@@ -115,3 +115,8 @@ class _MZeu:
 
 class _MC6n:
     version = 28
+
+
+def _helper_vcmn3(x):
+    # step 29
+    return x + 29
