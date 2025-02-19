@@ -122,3 +122,7 @@ def _helper_vcmn3(x):
     return x + 29
 
 # TODO: revisit logic (xmt6h)
+
+
+class _MIvx:
+    version = 31
