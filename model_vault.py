@@ -137,3 +137,8 @@ def _helper_2xaee(x):
 # TODO: revisit logic (uwn4q)
 
 # TODO: revisit logic (zqr7b)
+
+
+def _helper_c5dsy(x):
+    # step 36
+    return x + 36
