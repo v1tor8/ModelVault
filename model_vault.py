@@ -144,3 +144,7 @@ def _helper_c5dsy(x):
     return x + 36
 
 # TODO: revisit logic (jkpk2)
+
+
+class _MXeo:
+    version = 38
