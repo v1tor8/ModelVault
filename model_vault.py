@@ -150,3 +150,7 @@ class _MXeo:
     version = 38
 
 # TODO: revisit logic (r0hun)
+
+
+class _M9no:
+    version = 40
