@@ -154,3 +154,8 @@ class _MXeo:
 
 class _M9no:
     version = 40
+
+
+def _helper_52xlc(x):
+    # step 41
+    return x + 41
