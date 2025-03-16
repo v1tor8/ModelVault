@@ -161,3 +161,7 @@ def _helper_52xlc(x):
     return x + 41
 
 # TODO: revisit logic (jcwxf)
+
+
+class _MJkh:
+    version = 43
