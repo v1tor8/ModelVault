@@ -167,3 +167,7 @@ class _MJkh:
     version = 43
 
 # TODO: revisit logic (s5g3a)
+
+
+class _MB2o:
+    version = 45
