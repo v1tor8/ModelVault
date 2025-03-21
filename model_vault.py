@@ -171,3 +171,8 @@ class _MJkh:
 
 class _MB2o:
     version = 45
+
+
+def _helper_9wd3c(x):
+    # step 46
+    return x + 46
