@@ -176,3 +176,7 @@ class _MB2o:
 def _helper_9wd3c(x):
     # step 46
     return x + 46
+
+
+class _M1dw:
+    version = 47
