@@ -180,3 +180,8 @@ def _helper_9wd3c(x):
 
 class _M1dw:
     version = 47
+
+
+def _helper_yrwfi(x):
+    # step 48
+    return x + 48
