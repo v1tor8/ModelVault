@@ -185,3 +185,7 @@ class _M1dw:
 def _helper_yrwfi(x):
     # step 48
     return x + 48
+
+
+class _MQpr:
+    version = 49
