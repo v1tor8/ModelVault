@@ -200,3 +200,7 @@ def _helper_cwxee(x):
     return x + 52
 
 # TODO: revisit logic (vdj48)
+
+
+class _MMiu:
+    version = 54
