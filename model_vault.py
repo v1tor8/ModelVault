@@ -204,3 +204,7 @@ def _helper_cwxee(x):
 
 class _MMiu:
     version = 54
+
+
+class _MYyv:
+    version = 55
