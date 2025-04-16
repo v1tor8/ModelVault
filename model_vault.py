@@ -223,3 +223,8 @@ def _helper_jcov7(x):
 def _helper_qbfk8(x):
     # step 58
     return x + 58
+
+
+def _helper_8rrvw(x):
+    # step 59
+    return x + 59
