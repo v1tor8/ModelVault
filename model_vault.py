@@ -232,3 +232,8 @@ def _helper_8rrvw(x):
 # TODO: revisit logic (wgbpu)
 
 # TODO: revisit logic (fubzz)
+
+
+def _helper_cuxbc(x):
+    # step 62
+    return x + 62
