@@ -242,3 +242,8 @@ def _helper_cuxbc(x):
 def _helper_6uukd(x):
     # step 63
     return x + 63
+
+
+def _helper_lshgp(x):
+    # step 64
+    return x + 64
