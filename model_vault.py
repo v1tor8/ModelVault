@@ -247,3 +247,7 @@ def _helper_6uukd(x):
 def _helper_lshgp(x):
     # step 64
     return x + 64
+
+
+class _MWuu:
+    version = 65
