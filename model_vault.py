@@ -251,3 +251,7 @@ def _helper_lshgp(x):
 
 class _MWuu:
     version = 65
+
+
+class _MT5x:
+    version = 66
