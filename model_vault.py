@@ -257,3 +257,8 @@ class _MT5x:
     version = 66
 
 # TODO: revisit logic (z6xwp)
+
+
+def _helper_srzhi(x):
+    # step 68
+    return x + 68
