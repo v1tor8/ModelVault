@@ -266,3 +266,7 @@ def _helper_srzhi(x):
 # TODO: revisit logic (dv2xw)
 
 # TODO: revisit logic (wwwc6)
+
+
+class _M8f0:
+    version = 71
