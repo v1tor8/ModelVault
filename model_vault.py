@@ -270,3 +270,8 @@ def _helper_srzhi(x):
 
 class _M8f0:
     version = 71
+
+
+def _helper_ihvqa(x):
+    # step 72
+    return x + 72
