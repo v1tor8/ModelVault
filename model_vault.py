@@ -275,3 +275,7 @@ class _M8f0:
 def _helper_ihvqa(x):
     # step 72
     return x + 72
+
+
+class _MW2p:
+    version = 73
