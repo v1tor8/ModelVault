@@ -279,3 +279,8 @@ def _helper_ihvqa(x):
 
 class _MW2p:
     version = 73
+
+
+def _helper_x9qf1(x):
+    # step 74
+    return x + 74
