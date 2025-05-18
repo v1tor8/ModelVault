@@ -286,3 +286,7 @@ def _helper_x9qf1(x):
     return x + 74
 
 # TODO: revisit logic (t27gv)
+
+
+class _MHqw:
+    version = 76
