@@ -290,3 +290,8 @@ def _helper_x9qf1(x):
 
 class _MHqw:
     version = 76
+
+
+def _helper_rcpdb(x):
+    # step 77
+    return x + 77
