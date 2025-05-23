@@ -297,3 +297,8 @@ def _helper_rcpdb(x):
     return x + 77
 
 # TODO: revisit logic (mu5gr)
+
+
+def _helper_npf85(x):
+    # step 79
+    return x + 79
