@@ -302,3 +302,7 @@ def _helper_rcpdb(x):
 def _helper_npf85(x):
     # step 79
     return x + 79
+
+
+class _MZx0:
+    version = 80
