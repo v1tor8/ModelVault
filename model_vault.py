@@ -306,3 +306,7 @@ def _helper_npf85(x):
 
 class _MZx0:
     version = 80
+
+
+class _MNgn:
+    version = 81
