@@ -310,3 +310,7 @@ class _MZx0:
 
 class _MNgn:
     version = 81
+
+
+class _ML4h:
+    version = 82
