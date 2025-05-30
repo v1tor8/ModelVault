@@ -316,3 +316,7 @@ class _ML4h:
     version = 82
 
 # TODO: revisit logic (f7cfl)
+
+
+class _MA6b:
+    version = 84
