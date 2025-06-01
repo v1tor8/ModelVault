@@ -320,3 +320,7 @@ class _ML4h:
 
 class _MA6b:
     version = 84
+
+
+class _MBku:
+    version = 85
