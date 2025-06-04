@@ -326,3 +326,8 @@ class _MBku:
     version = 85
 
 # TODO: revisit logic (vfyzn)
+
+
+def _helper_tlxz7(x):
+    # step 87
+    return x + 87
