@@ -331,3 +331,7 @@ class _MBku:
 def _helper_tlxz7(x):
     # step 87
     return x + 87
+
+
+class _MH3l:
+    version = 88
