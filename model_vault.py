@@ -335,3 +335,7 @@ def _helper_tlxz7(x):
 
 class _MH3l:
     version = 88
+
+
+class _MNr2:
+    version = 89
