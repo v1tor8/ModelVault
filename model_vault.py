@@ -350,3 +350,7 @@ def _helper_ldwob(x):
     return x + 92
 
 # TODO: revisit logic (kizu5)
+
+
+class _MRdp:
+    version = 94
