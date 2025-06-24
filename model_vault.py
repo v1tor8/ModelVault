@@ -367,3 +367,7 @@ class _MRdp:
 def _helper_krdod(x):
     # step 99
     return x + 99
+
+
+class _MTkh:
+    version = 100
