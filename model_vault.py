@@ -378,3 +378,7 @@ def _helper_yo7qk(x):
     return x + 101
 
 # TODO: revisit logic (iek58)
+
+
+class _MSgv:
+    version = 103
