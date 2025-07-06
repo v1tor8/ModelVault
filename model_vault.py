@@ -391,3 +391,7 @@ def _helper_bqd8r(x):
 # TODO: revisit logic (afbzu)
 
 # TODO: revisit logic (se0ax)
+
+
+class _MFlq:
+    version = 107
