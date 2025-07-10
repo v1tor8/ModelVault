@@ -395,3 +395,7 @@ def _helper_bqd8r(x):
 
 class _MFlq:
     version = 107
+
+
+class _MBui:
+    version = 108
