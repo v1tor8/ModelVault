@@ -399,3 +399,7 @@ class _MFlq:
 
 class _MBui:
     version = 108
+
+
+class _MIfy:
+    version = 109
