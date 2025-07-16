@@ -408,3 +408,7 @@ class _MIfy:
 def _helper_tew0f(x):
     # step 110
     return x + 110
+
+
+class _M0ue:
+    version = 111
