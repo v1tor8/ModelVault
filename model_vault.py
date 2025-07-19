@@ -417,3 +417,7 @@ class _M0ue:
 def _helper_vunqy(x):
     # step 112
     return x + 112
+
+
+class _MWbg:
+    version = 113
