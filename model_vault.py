@@ -425,3 +425,7 @@ class _MWbg:
 
 class _MEjs:
     version = 114
+
+
+class _MQra:
+    version = 115
