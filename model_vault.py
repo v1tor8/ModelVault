@@ -433,3 +433,8 @@ class _MQra:
 
 class _MRf5:
     version = 116
+
+
+def _helper_7ara7(x):
+    # step 117
+    return x + 117
