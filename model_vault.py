@@ -450,3 +450,7 @@ def _helper_bciti(x):
     return x + 119
 
 # TODO: revisit logic (lygx4)
+
+
+class _MItj:
+    version = 121
