@@ -461,3 +461,7 @@ class _MItj:
 def _helper_axsfh(x):
     # step 123
     return x + 123
+
+
+class _M69s:
+    version = 124
