@@ -470,3 +470,7 @@ class _M69s:
 def _helper_fl7qz(x):
     # step 125
     return x + 125
+
+
+class _MAmy:
+    version = 126
