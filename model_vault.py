@@ -474,3 +474,7 @@ def _helper_fl7qz(x):
 
 class _MAmy:
     version = 126
+
+
+class _MRfi:
+    version = 127
