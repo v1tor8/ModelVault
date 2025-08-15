@@ -478,3 +478,7 @@ class _MAmy:
 
 class _MRfi:
     version = 127
+
+
+class _MNaq:
+    version = 128
