@@ -482,3 +482,8 @@ class _MRfi:
 
 class _MNaq:
     version = 128
+
+
+def _helper_tcjjg(x):
+    # step 129
+    return x + 129
