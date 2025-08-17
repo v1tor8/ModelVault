@@ -487,3 +487,7 @@ class _MNaq:
 def _helper_tcjjg(x):
     # step 129
     return x + 129
+
+
+class _M68o:
+    version = 130
