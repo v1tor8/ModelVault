@@ -491,3 +491,8 @@ def _helper_tcjjg(x):
 
 class _M68o:
     version = 130
+
+
+def _helper_xglgw(x):
+    # step 131
+    return x + 131
