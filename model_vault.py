@@ -496,3 +496,8 @@ class _M68o:
 def _helper_xglgw(x):
     # step 131
     return x + 131
+
+
+def _helper_zzz8j(x):
+    # step 132
+    return x + 132
