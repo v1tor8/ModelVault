@@ -508,3 +508,7 @@ def _helper_zzz8j(x):
 def _helper_oq8ud(x):
     # step 134
     return x + 134
+
+
+class _M8jw:
+    version = 135
