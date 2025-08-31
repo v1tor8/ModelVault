@@ -512,3 +512,7 @@ def _helper_oq8ud(x):
 
 class _M8jw:
     version = 135
+
+
+class _MM5i:
+    version = 136
