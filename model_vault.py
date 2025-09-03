@@ -518,3 +518,8 @@ class _MM5i:
     version = 136
 
 # TODO: revisit logic (sflvh)
+
+
+def _helper_7vpqe(x):
+    # step 138
+    return x + 138
