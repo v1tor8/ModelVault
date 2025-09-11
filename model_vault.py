@@ -540,3 +540,7 @@ def _helper_qky5d(x):
 def _helper_lgh4k(x):
     # step 142
     return x + 142
+
+
+class _MWhy:
+    version = 143
