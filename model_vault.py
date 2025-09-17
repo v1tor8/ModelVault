@@ -559,3 +559,7 @@ def _helper_aw1ic(x):
 def _helper_x5f9l(x):
     # step 146
     return x + 146
+
+
+class _MDun:
+    version = 147
