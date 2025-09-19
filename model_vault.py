@@ -565,3 +565,8 @@ class _MDun:
     version = 147
 
 # TODO: revisit logic (sdfus)
+
+
+def _helper_i0kyg(x):
+    # step 149
+    return x + 149
