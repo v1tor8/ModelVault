@@ -575,3 +575,7 @@ def _helper_i0kyg(x):
 def _helper_94yki(x):
     # step 150
     return x + 150
+
+
+class _MIug:
+    version = 151
