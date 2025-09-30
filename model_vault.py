@@ -593,3 +593,7 @@ def _helper_ehvwq(x):
 def _helper_vvia9(x):
     # step 155
     return x + 155
+
+
+class _MPjm:
+    version = 156
