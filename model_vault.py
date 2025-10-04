@@ -604,3 +604,7 @@ class _MPjm:
 def _helper_kfuj6(x):
     # step 158
     return x + 158
+
+
+class _MAnr:
+    version = 159
