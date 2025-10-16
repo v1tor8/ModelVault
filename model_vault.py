@@ -636,3 +636,7 @@ class _MUcl:
 def _helper_urgcz(x):
     # step 166
     return x + 166
+
+
+class _MJin:
+    version = 167
