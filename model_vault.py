@@ -645,3 +645,7 @@ class _MJin:
 def _helper_2d0im(x):
     # step 168
     return x + 168
+
+
+class _M62b:
+    version = 169
