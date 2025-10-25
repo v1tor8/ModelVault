@@ -653,3 +653,7 @@ class _M62b:
 
 class _MLvh:
     version = 170
+
+
+class _MS68:
+    version = 171
