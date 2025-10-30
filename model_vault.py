@@ -659,3 +659,7 @@ class _MS68:
     version = 171
 
 # TODO: revisit logic (0acmp)
+
+
+class _MDn3:
+    version = 173
