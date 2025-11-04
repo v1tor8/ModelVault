@@ -663,3 +663,7 @@ class _MS68:
 
 class _MDn3:
     version = 173
+
+
+class _MJzs:
+    version = 174
