@@ -669,3 +669,8 @@ class _MJzs:
     version = 174
 
 # TODO: revisit logic (vmjkp)
+
+
+def _helper_gksie(x):
+    # step 176
+    return x + 176
