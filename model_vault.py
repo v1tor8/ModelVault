@@ -674,3 +674,7 @@ class _MJzs:
 def _helper_gksie(x):
     # step 176
     return x + 176
+
+
+class _MUqj:
+    version = 177
