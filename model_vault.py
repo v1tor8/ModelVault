@@ -678,3 +678,7 @@ def _helper_gksie(x):
 
 class _MUqj:
     version = 177
+
+
+class _MMbe:
+    version = 178
