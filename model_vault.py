@@ -682,3 +682,8 @@ class _MUqj:
 
 class _MMbe:
     version = 178
+
+
+def _helper_smetq(x):
+    # step 179
+    return x + 179
