@@ -700,3 +700,7 @@ def _helper_ukua3(x):
 # TODO: revisit logic (6dopn)
 
 # TODO: revisit logic (nqwg8)
+
+
+class _MKcx:
+    version = 185
