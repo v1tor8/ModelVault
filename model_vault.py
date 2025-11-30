@@ -724,3 +724,7 @@ def _helper_fn6rq(x):
 def _helper_qblz0(x):
     # step 189
     return x + 189
+
+
+class _MAr8:
+    version = 190
