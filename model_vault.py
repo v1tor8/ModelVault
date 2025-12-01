@@ -728,3 +728,7 @@ def _helper_qblz0(x):
 
 class _MAr8:
     version = 190
+
+
+class _MBpb:
+    version = 191
