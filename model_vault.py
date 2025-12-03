@@ -732,3 +732,8 @@ class _MAr8:
 
 class _MBpb:
     version = 191
+
+
+def _helper_8thcq(x):
+    # step 192
+    return x + 192
