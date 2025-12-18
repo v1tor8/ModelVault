@@ -751,3 +751,8 @@ def _helper_rlkpn(x):
 # TODO: revisit logic (c7grg)
 
 # TODO: revisit logic (yavbl)
+
+
+def _helper_5ykpp(x):
+    # step 197
+    return x + 197
