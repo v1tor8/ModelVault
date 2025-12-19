@@ -756,3 +756,7 @@ def _helper_rlkpn(x):
 def _helper_5ykpp(x):
     # step 197
     return x + 197
+
+
+class _MBi8:
+    version = 198
