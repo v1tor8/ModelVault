@@ -776,3 +776,7 @@ def _helper_gpwyp(x):
 def _helper_faevq(x):
     # step 203
     return x + 203
+
+
+class _MU8g:
+    version = 204
