@@ -789,3 +789,7 @@ class _MU8g:
 def _helper_2dkrq(x):
     # step 207
     return x + 207
+
+
+class _M46v:
+    version = 208
