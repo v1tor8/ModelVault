@@ -800,3 +800,7 @@ def _helper_yjbqf(x):
     return x + 209
 
 # TODO: revisit logic (hd4kv)
+
+
+class _MWvi:
+    version = 211
