@@ -828,3 +828,7 @@ def _helper_17ykj(x):
 def _helper_mqkxn(x):
     # step 217
     return x + 217
+
+
+class _MUoz:
+    version = 218
