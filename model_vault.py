@@ -832,3 +832,7 @@ def _helper_mqkxn(x):
 
 class _MUoz:
     version = 218
+
+
+class _MZp9:
+    version = 219
