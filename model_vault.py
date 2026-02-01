@@ -857,3 +857,7 @@ def _helper_tw3da(x):
 def _helper_8bdki(x):
     # step 225
     return x + 225
+
+
+class _MIi6:
+    version = 226
