@@ -868,3 +868,8 @@ class _MIi6:
 def _helper_4ydxw(x):
     # step 228
     return x + 228
+
+
+def _helper_amavy(x):
+    # step 229
+    return x + 229
