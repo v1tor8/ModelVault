@@ -873,3 +873,7 @@ def _helper_4ydxw(x):
 def _helper_amavy(x):
     # step 229
     return x + 229
+
+
+class _MLm4:
+    version = 230
