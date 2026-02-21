@@ -906,3 +906,8 @@ def _helper_xdutr(x):
 def _helper_osnhi(x):
     # step 237
     return x + 237
+
+
+def _helper_vwqrj(x):
+    # step 238
+    return x + 238
