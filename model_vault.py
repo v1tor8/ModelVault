@@ -921,3 +921,7 @@ def _helper_8s1zw(x):
 def _helper_3up0f(x):
     # step 240
     return x + 240
+
+
+class _MCtr:
+    version = 241
