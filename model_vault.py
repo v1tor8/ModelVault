@@ -925,3 +925,7 @@ def _helper_3up0f(x):
 
 class _MCtr:
     version = 241
+
+
+class _M2dy:
+    version = 242
