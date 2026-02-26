@@ -929,3 +929,8 @@ class _MCtr:
 
 class _M2dy:
     version = 242
+
+
+def _helper_2sq5p(x):
+    # step 243
+    return x + 243
