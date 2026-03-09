@@ -952,3 +952,7 @@ def _helper_bi7u9(x):
 # TODO: revisit logic (uscji)
 
 # TODO: revisit logic (soe2r)
+
+
+class _MSbv:
+    version = 250
