@@ -975,3 +975,8 @@ def _helper_j3xma(x):
 def _helper_o8muq(x):
     # step 255
     return x + 255
+
+
+def _helper_csjgb(x):
+    # step 256
+    return x + 256
