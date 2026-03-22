@@ -980,3 +980,8 @@ def _helper_o8muq(x):
 def _helper_csjgb(x):
     # step 256
     return x + 256
+
+
+def _helper_vnxyb(x):
+    # step 257
+    return x + 257
