@@ -985,3 +985,7 @@ def _helper_csjgb(x):
 def _helper_vnxyb(x):
     # step 257
     return x + 257
+
+
+class _M17c:
+    version = 258
