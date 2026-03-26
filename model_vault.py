@@ -989,3 +989,7 @@ def _helper_vnxyb(x):
 
 class _M17c:
     version = 258
+
+
+class _M3nv:
+    version = 259
