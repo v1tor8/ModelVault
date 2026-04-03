@@ -999,3 +999,7 @@ class _M3nv:
 # TODO: revisit logic (5gb99)
 
 # TODO: revisit logic (7jobm)
+
+
+class _MXan:
+    version = 263
