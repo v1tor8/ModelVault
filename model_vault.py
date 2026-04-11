@@ -1010,3 +1010,8 @@ def _helper_2jwif(x):
     return x + 264
 
 # TODO: revisit logic (ru5sz)
+
+
+def _helper_wgu69(x):
+    # step 266
+    return x + 266
