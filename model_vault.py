@@ -1015,3 +1015,8 @@ def _helper_2jwif(x):
 def _helper_wgu69(x):
     # step 266
     return x + 266
+
+
+def _helper_fqrku(x):
+    # step 267
+    return x + 267
