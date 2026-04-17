@@ -1027,3 +1027,8 @@ def _helper_g10d7(x):
     return x + 268
 
 # TODO: revisit logic (abqod)
+
+
+def _helper_thrau(x):
+    # step 270
+    return x + 270
