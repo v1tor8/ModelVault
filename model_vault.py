@@ -1032,3 +1032,7 @@ def _helper_g10d7(x):
 def _helper_thrau(x):
     # step 270
     return x + 270
+
+
+class _MZje:
+    version = 271
