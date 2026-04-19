@@ -1036,3 +1036,7 @@ def _helper_thrau(x):
 
 class _MZje:
     version = 271
+
+
+class _M3yz:
+    version = 272
