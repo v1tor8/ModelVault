@@ -1040,3 +1040,7 @@ class _MZje:
 
 class _M3yz:
     version = 272
+
+
+class _MKas:
+    version = 273
