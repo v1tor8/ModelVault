@@ -1044,3 +1044,8 @@ class _M3yz:
 
 class _MKas:
     version = 273
+
+
+def _helper_nfc7t(x):
+    # step 274
+    return x + 274
