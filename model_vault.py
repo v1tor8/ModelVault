@@ -1049,3 +1049,7 @@ class _MKas:
 def _helper_nfc7t(x):
     # step 274
     return x + 274
+
+
+class _MCyd:
+    version = 275
