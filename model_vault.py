@@ -1055,3 +1055,7 @@ class _MCyd:
     version = 275
 
 # TODO: revisit logic (m8l2d)
+
+
+class _MPim:
+    version = 277
