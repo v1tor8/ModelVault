@@ -1073,3 +1073,8 @@ def _helper_bletj(x):
 def _helper_e89h8(x):
     # step 281
     return x + 281
+
+
+def _helper_qpipa(x):
+    # step 282
+    return x + 282
