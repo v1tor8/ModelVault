@@ -1083,3 +1083,7 @@ def _helper_qpipa(x):
 def _helper_sdsuh(x):
     # step 283
     return x + 283
+
+
+class _M3r0:
+    version = 284
