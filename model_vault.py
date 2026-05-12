@@ -1095,3 +1095,8 @@ class _MTqm:
 
 class _MApl:
     version = 286
+
+
+def _helper_mgn4n(x):
+    # step 287
+    return x + 287
