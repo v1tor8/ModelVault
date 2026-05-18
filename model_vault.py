@@ -1112,3 +1112,7 @@ def _helper_1enge(x):
 def _helper_fkunh(x):
     # step 290
     return x + 290
+
+
+class _MRad:
+    version = 291
