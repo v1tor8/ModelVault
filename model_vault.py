@@ -1116,3 +1116,7 @@ def _helper_fkunh(x):
 
 class _MRad:
     version = 291
+
+
+class _MD4w:
+    version = 292
