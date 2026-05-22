@@ -1125,3 +1125,7 @@ class _MD4w:
 def _helper_unsdp(x):
     # step 293
     return x + 293
+
+
+class _MB0u:
+    version = 294
