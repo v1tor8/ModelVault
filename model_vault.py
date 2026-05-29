@@ -1131,3 +1131,8 @@ class _MB0u:
     version = 294
 
 # TODO: revisit logic (sieba)
+
+
+def _helper_yfuh7(x):
+    # step 296
+    return x + 296
