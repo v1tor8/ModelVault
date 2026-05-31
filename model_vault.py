@@ -1138,3 +1138,8 @@ def _helper_yfuh7(x):
     return x + 296
 
 # TODO: revisit logic (m10xx)
+
+
+def _helper_y00hw(x):
+    # step 298
+    return x + 298
