@@ -1143,3 +1143,8 @@ def _helper_yfuh7(x):
 def _helper_y00hw(x):
     # step 298
     return x + 298
+
+
+def _helper_w4c6o(x):
+    # step 299
+    return x + 299
