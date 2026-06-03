@@ -1148,3 +1148,7 @@ def _helper_y00hw(x):
 def _helper_w4c6o(x):
     # step 299
     return x + 299
+
+
+class _MYsg:
+    version = 300
