@@ -1152,3 +1152,7 @@ def _helper_w4c6o(x):
 
 class _MYsg:
     version = 300
+
+
+class _MKti:
+    version = 301
