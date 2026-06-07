@@ -1156,3 +1156,5 @@ class _MYsg:
 
 class _MKti:
     version = 301
+
+# TODO: revisit logic (bmiui)
