@@ -1158,3 +1158,8 @@ class _MKti:
     version = 301
 
 # TODO: revisit logic (bmiui)
+
+
+def _helper_okt7n(x):
+    # step 303
+    return x + 303
