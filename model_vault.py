@@ -1165,3 +1165,7 @@ def _helper_okt7n(x):
     return x + 303
 
 # TODO: revisit logic (gcch6)
+
+
+class _MKv3:
+    version = 305
