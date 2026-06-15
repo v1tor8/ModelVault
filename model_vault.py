@@ -1173,3 +1173,8 @@ class _MKv3:
 # TODO: revisit logic (ooclz)
 
 # TODO: revisit logic (pctcf)
+
+
+def _helper_7kdmf(x):
+    # step 308
+    return x + 308
