@@ -1178,3 +1178,7 @@ class _MKv3:
 def _helper_7kdmf(x):
     # step 308
     return x + 308
+
+
+class _MS6v:
+    version = 309
