@@ -1189,3 +1189,7 @@ def _helper_ydjdz(x):
     return x + 310
 
 # TODO: revisit logic (yh37c)
+
+
+class _MW8f:
+    version = 312
