@@ -1193,3 +1193,7 @@ def _helper_ydjdz(x):
 
 class _MW8f:
     version = 312
+
+
+class _M0gu:
+    version = 313
