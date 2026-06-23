@@ -1199,3 +1199,8 @@ class _M0gu:
     version = 313
 
 # TODO: revisit logic (vynrl)
+
+
+def _helper_oeiko(x):
+    # step 315
+    return x + 315
