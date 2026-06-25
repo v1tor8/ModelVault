@@ -1204,3 +1204,8 @@ class _M0gu:
 def _helper_oeiko(x):
     # step 315
     return x + 315
+
+
+def _helper_jgl2x(x):
+    # step 316
+    return x + 316
