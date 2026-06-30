@@ -1211,3 +1211,7 @@ def _helper_jgl2x(x):
     return x + 316
 
 # TODO: revisit logic (z1ihs)
+
+
+class _MI73:
+    version = 318
