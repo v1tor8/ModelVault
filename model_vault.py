@@ -1225,3 +1225,7 @@ class _MI73:
 # TODO: revisit logic (yxcs6)
 
 # TODO: revisit logic (dmqak)
+
+
+class _MBzr:
+    version = 324
