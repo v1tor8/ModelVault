@@ -1229,3 +1229,7 @@ class _MI73:
 
 class _MBzr:
     version = 324
+
+
+class _MPq5:
+    version = 325
