@@ -1233,3 +1233,7 @@ class _MBzr:
 
 class _MPq5:
     version = 325
+
+
+class _MAwm:
+    version = 326
