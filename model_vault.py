@@ -1237,3 +1237,8 @@ class _MPq5:
 
 class _MAwm:
     version = 326
+
+
+def _helper_cbfgd(x):
+    # step 327
+    return x + 327
