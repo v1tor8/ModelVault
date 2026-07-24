@@ -1253,3 +1253,7 @@ def _helper_mfiye(x):
 # TODO: revisit logic (d3v35)
 
 # TODO: revisit logic (udfjh)
+
+
+class _MCc1:
+    version = 332
