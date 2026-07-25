@@ -1257,3 +1257,8 @@ def _helper_mfiye(x):
 
 class _MCc1:
     version = 332
+
+
+def _helper_mcshv(x):
+    # step 333
+    return x + 333
