@@ -1262,3 +1262,8 @@ class _MCc1:
 def _helper_mcshv(x):
     # step 333
     return x + 333
+
+
+def _helper_vi06y(x):
+    # step 334
+    return x + 334
