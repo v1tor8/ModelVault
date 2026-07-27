@@ -1267,3 +1267,7 @@ def _helper_mcshv(x):
 def _helper_vi06y(x):
     # step 334
     return x + 334
+
+
+class _MTrf:
+    version = 335
