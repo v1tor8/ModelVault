@@ -1271,3 +1271,7 @@ def _helper_vi06y(x):
 
 class _MTrf:
     version = 335
+
+
+class _MSmj:
+    version = 336
