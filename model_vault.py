@@ -1275,3 +1275,7 @@ class _MTrf:
 
 class _MSmj:
     version = 336
+
+
+class _MVh3:
+    version = 337
