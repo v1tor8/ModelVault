@@ -1279,3 +1279,7 @@ class _MSmj:
 
 class _MVh3:
     version = 337
+
+
+class _M4v2:
+    version = 338
