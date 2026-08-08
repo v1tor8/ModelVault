@@ -1289,3 +1289,7 @@ class _MX1l:
     version = 339
 
 # TODO: revisit logic (mqosl)
+
+
+class _MSbo:
+    version = 341
