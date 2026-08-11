@@ -1295,3 +1295,8 @@ class _MSbo:
     version = 341
 
 # TODO: revisit logic (55vyo)
+
+
+def _helper_sczid(x):
+    # step 343
+    return x + 343
