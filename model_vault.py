@@ -1302,3 +1302,8 @@ def _helper_sczid(x):
     return x + 343
 
 # TODO: revisit logic (ecvpu)
+
+
+def _helper_wpqxi(x):
+    # step 345
+    return x + 345
