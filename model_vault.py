@@ -1307,3 +1307,7 @@ def _helper_sczid(x):
 def _helper_wpqxi(x):
     # step 345
     return x + 345
+
+
+class _M3np:
+    version = 346
