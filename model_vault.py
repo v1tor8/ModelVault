@@ -1311,3 +1311,7 @@ def _helper_wpqxi(x):
 
 class _M3np:
     version = 346
+
+
+class _MUqr:
+    version = 347
