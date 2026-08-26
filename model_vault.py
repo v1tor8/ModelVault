@@ -1324,3 +1324,8 @@ class _MUqr:
 def _helper_8qjoi(x):
     # step 350
     return x + 350
+
+
+def _helper_3qqvr(x):
+    # step 351
+    return x + 351
