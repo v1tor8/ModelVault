@@ -1329,3 +1329,7 @@ def _helper_8qjoi(x):
 def _helper_3qqvr(x):
     # step 351
     return x + 351
+
+
+class _MLug:
+    version = 352
