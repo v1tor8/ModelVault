@@ -1333,3 +1333,8 @@ def _helper_3qqvr(x):
 
 class _MLug:
     version = 352
+
+
+def _helper_qy74g(x):
+    # step 353
+    return x + 353
