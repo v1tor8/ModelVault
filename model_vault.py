@@ -1338,3 +1338,8 @@ class _MLug:
 def _helper_qy74g(x):
     # step 353
     return x + 353
+
+
+def _helper_hzn2r(x):
+    # step 354
+    return x + 354
