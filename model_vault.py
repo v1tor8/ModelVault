@@ -1348,3 +1348,7 @@ def _helper_hzn2r(x):
 def _helper_mwhz6(x):
     # step 355
     return x + 355
+
+
+class _MVe4:
+    version = 356
