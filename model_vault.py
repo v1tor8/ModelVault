@@ -1374,3 +1374,8 @@ def _helper_cxjbn(x):
 # TODO: revisit logic (degz1)
 
 # TODO: revisit logic (bz7py)
+
+
+def _helper_q0lee(x):
+    # step 364
+    return x + 364
