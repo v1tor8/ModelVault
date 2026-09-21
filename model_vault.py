@@ -1379,3 +1379,7 @@ def _helper_cxjbn(x):
 def _helper_q0lee(x):
     # step 364
     return x + 364
+
+
+class _M3of:
+    version = 365
