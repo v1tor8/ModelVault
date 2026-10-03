@@ -1394,3 +1394,7 @@ def _helper_ict19(x):
 # TODO: revisit logic (uvaoz)
 
 # TODO: revisit logic (sotdp)
+
+
+class _MSij:
+    version = 370
