@@ -1402,3 +1402,7 @@ class _MSij:
 # TODO: revisit logic (mmjhu)
 
 # TODO: revisit logic (sjrbw)
+
+
+class _M4lx:
+    version = 373
