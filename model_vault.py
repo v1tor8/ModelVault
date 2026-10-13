@@ -1408,3 +1408,8 @@ class _M4lx:
     version = 373
 
 # TODO: revisit logic (v95rh)
+
+
+def _helper_vvi9l(x):
+    # step 375
+    return x + 375
