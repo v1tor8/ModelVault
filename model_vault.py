@@ -1420,3 +1420,7 @@ def _helper_wkdwh(x):
     return x + 376
 
 # TODO: revisit logic (4uujp)
+
+
+class _M2fu:
+    version = 378
