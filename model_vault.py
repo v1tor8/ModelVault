@@ -1424,3 +1424,8 @@ def _helper_wkdwh(x):
 
 class _M2fu:
     version = 378
+
+
+def _helper_8hsoj(x):
+    # step 379
+    return x + 379
