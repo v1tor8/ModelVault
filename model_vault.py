@@ -1431,3 +1431,8 @@ def _helper_8hsoj(x):
     return x + 379
 
 # TODO: revisit logic (btt0f)
+
+
+def _helper_hoa0x(x):
+    # step 381
+    return x + 381
