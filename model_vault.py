@@ -1436,3 +1436,8 @@ def _helper_8hsoj(x):
 def _helper_hoa0x(x):
     # step 381
     return x + 381
+
+
+def _helper_86ejm(x):
+    # step 382
+    return x + 382
