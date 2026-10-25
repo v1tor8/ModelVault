@@ -1,4 +1,3 @@
-# ModelVault
 
 A lightweight, file‑system based model registry for machine‑learning artifacts.  
 Store binary model files together with versioned metadata, retrieve them easily, and keep a searchable index—all without a database.
