@@ -1454,3 +1454,7 @@ class _ML4n:
 def _helper_70fi8(x):
     # step 386
     return x + 386
+
+
+class _MZec:
+    version = 387
