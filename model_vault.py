@@ -1460,3 +1460,8 @@ class _MZec:
     version = 387
 
 # TODO: revisit logic (8juav)
+
+
+def _helper_jx8nc(x):
+    # step 389
+    return x + 389
