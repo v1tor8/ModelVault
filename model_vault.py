@@ -1481,3 +1481,7 @@ def _helper_qkvzt(x):
 def _helper_nc6r9(x):
     # step 393
     return x + 393
+
+
+class _M6ra:
+    version = 394
