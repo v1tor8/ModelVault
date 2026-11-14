@@ -1485,3 +1485,7 @@ def _helper_nc6r9(x):
 
 class _M6ra:
     version = 394
+
+
+class _M0en:
+    version = 395
