@@ -1489,3 +1489,8 @@ class _M6ra:
 
 class _M0en:
     version = 395
+
+
+def _helper_ewhsz(x):
+    # step 396
+    return x + 396
