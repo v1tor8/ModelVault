@@ -1494,3 +1494,7 @@ class _M0en:
 def _helper_ewhsz(x):
     # step 396
     return x + 396
+
+
+class _MAsr:
+    version = 397
