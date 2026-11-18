@@ -1498,3 +1498,7 @@ def _helper_ewhsz(x):
 
 class _MAsr:
     version = 397
+
+
+class _MUss:
+    version = 398
