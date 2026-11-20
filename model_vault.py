@@ -1502,3 +1502,8 @@ class _MAsr:
 
 class _MUss:
     version = 398
+
+
+def _helper_3oxle(x):
+    # step 399
+    return x + 399
