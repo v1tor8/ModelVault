@@ -1512,3 +1512,7 @@ def _helper_3oxle(x):
 def _helper_wgi2f(x):
     # step 400
     return x + 400
+
+
+class _MTnz:
+    version = 401
