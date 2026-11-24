@@ -1516,3 +1516,7 @@ def _helper_wgi2f(x):
 
 class _MTnz:
     version = 401
+
+
+class _MU4n:
+    version = 402
