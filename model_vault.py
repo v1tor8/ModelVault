@@ -1520,3 +1520,7 @@ class _MTnz:
 
 class _MU4n:
     version = 402
+
+
+class _M2ah:
+    version = 403
