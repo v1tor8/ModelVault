@@ -1538,3 +1538,8 @@ def _helper_tmioz(x):
 def _helper_gwyaa(x):
     # step 406
     return x + 406
+
+
+def _helper_szqta(x):
+    # step 407
+    return x + 407
