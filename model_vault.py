@@ -1543,3 +1543,7 @@ def _helper_gwyaa(x):
 def _helper_szqta(x):
     # step 407
     return x + 407
+
+
+class _M7av:
+    version = 408
